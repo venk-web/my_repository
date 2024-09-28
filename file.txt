@@ -12,3 +12,8 @@ hobbies:
 	chatting
 	meeting
 	eating
+
+education:
+	school: myschool
+	college: guntur college
+	university: venky-univeristy
