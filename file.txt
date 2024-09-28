@@ -2,3 +2,8 @@ basic details:
 	name: venkatesh
 	age: 26
 	location: suddapalli
+
+professional details:
+	company: hcl
+	salary: low
+	increment: nill
