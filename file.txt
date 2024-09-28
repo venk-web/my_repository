@@ -1,0 +1,4 @@
+basic details:
+	name: venkatesh
+	age: 26
+	location: suddapalli
