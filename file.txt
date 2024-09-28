@@ -7,3 +7,8 @@ professional details:
 	company: hcl
 	salary: low
 	increment: nill
+
+hobbies:
+	chatting
+	meeting
+	eating
