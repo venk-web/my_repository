@@ -7,3 +7,8 @@ professional details:
 	company: hcl
 	salary: low
 	increment: nill
+
+education:
+	school: myschool
+	college: guntur college
+	university: venky-univeristy
